@@ -1,0 +1,7 @@
+# Ignore system and application data
+**/AppData/
+**/Cache/
+**/Temporary/
+**/History/
+**/INetCache/
+**/Temporary Internet Files/
